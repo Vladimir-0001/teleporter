@@ -1,0 +1,6 @@
+E:\Teleporter\Teleporter\bin\Release\net5.0-windows\publish\Teleporter.exe
+E:\Teleporter\Teleporter\bin\Release\net5.0-windows\publish\Teleporter.dll
+E:\Teleporter\Teleporter\bin\Release\net5.0-windows\publish\Teleporter.deps.json
+E:\Teleporter\Teleporter\bin\Release\net5.0-windows\publish\Teleporter.runtimeconfig.json
+E:\Teleporter\Teleporter\bin\Release\net5.0-windows\publish\Teleporter.pdb
+E:\Teleporter\Teleporter\bin\Release\net5.0-windows\publish\Memory.dll

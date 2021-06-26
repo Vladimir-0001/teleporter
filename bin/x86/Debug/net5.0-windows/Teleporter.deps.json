@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Teleporter/1.0.0": {
+        "dependencies": {
+          "Memory.dll.x86": "1.2.22"
+        },
+        "runtime": {
+          "Teleporter.dll": {}
+        }
+      },
+      "Memory.dll.x86/1.2.22": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Memory.dll": {
+            "assemblyVersion": "1.2.21.0",
+            "fileVersion": "1.2.21.0"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "Teleporter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Memory.dll.x86/1.2.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Unr6t/7oAD33yJ7H7w8H8+S6IJUERSruUmeE9X2QNhPY2OhIwjI1SPbuRUTZj/tI9aKS9zyMcBgnz12DT3sRLw==",
+      "path": "memory.dll.x86/1.2.22",
+      "hashPath": "memory.dll.x86.1.2.22.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    }
+  }
+}
